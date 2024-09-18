@@ -1,2 +1,17 @@
-roar 
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    line-height: 1, 6;
+    font-size: 1, 7rem;
+    font-family: sans-serif;
+    color: blueviolet;
+    background-color: aliceblue;
+}
+
+image {
+    max-width: 100%;
+}
